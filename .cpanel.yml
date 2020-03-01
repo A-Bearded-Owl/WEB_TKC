@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/devabear/public_html/TKC/
-    - /bin/cp -R /home/devabear/repositories/TKC/DEV $DEPLOYPATH
+    - /bin/cp -R /home/devabear/repositories/WEB_TKC/DEV $DEPLOYPATH
